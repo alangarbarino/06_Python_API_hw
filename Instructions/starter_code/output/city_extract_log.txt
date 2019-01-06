@@ -1,0 +1,580 @@
+Begin city data API pull.
+1 Processed novoagansk
+2 Processed saint george
+olafsvik not found. Moving to next city.
+3 Processed eureka
+4 Processed namatanai
+5 Processed ulagan
+6 Processed shache
+paradwip not found. Moving to next city.
+7 Processed lompoc
+8 Processed busselton
+9 Processed mandalgovi
+10 Processed puerto ayora
+mys shmidta not found. Moving to next city.
+11 Processed galle
+12 Processed portland
+13 Processed chuy
+14 Processed mataura
+15 Processed esperance
+16 Processed rikitea
+17 Processed birao
+18 Processed port alfred
+19 Processed ribeira grande
+20 Processed punta arenas
+21 Processed nikolskoye
+22 Processed samarai
+23 Processed podgorica
+24 Processed bara
+25 Processed georgetown
+26 Processed kenai
+27 Processed kigoma
+28 Processed ushuaia
+29 Processed port lincoln
+30 Processed jamestown
+31 Processed hermanus
+32 Processed dikson
+33 Processed atuona
+34 Processed fort nelson
+taolanaro not found. Moving to next city.
+35 Processed sayyan
+36 Processed baruun-urt
+37 Processed tasiilaq
+38 Processed husavik
+39 Processed kodiak
+40 Processed turukhansk
+41 Processed anshun
+bolungarvik not found. Moving to next city.
+42 Processed hithadhoo
+43 Processed tuatapere
+44 Processed nyanguge
+45 Processed linkoping
+46 Processed torbay
+tabiauea not found. Moving to next city.
+47 Processed talnakh
+48 Processed yarada
+49 Processed majene
+50 Processed kapaa
+51 Processed hobart
+52 Processed arraial do cabo
+53 Processed oranjemund
+54 Processed qaanaaq
+55 Processed katsuura
+56 Processed barrow
+57 Processed luderitz
+58 Processed vuktyl
+59 Processed cape town
+60 Processed bluff
+61 Processed leningradskiy
+62 Processed tiksi
+63 Processed daan
+64 Processed albany
+65 Processed tuktoyaktuk
+66 Processed avarua
+67 Processed hilo
+68 Processed cidreira
+69 Processed howard springs
+70 Processed ambilobe
+71 Processed jiayuguan
+72 Processed victoria
+73 Processed souillac
+74 Processed sitka
+75 Processed bethel
+76 Processed ponta delgada
+77 Processed vaini
+78 Processed vila franca do campo
+79 Processed kaitangata
+80 Processed balkanabat
+81 Processed thompson
+82 Processed haines junction
+83 Processed east london
+sakakah not found. Moving to next city.
+84 Processed san nicolas
+85 Processed honningsvag
+86 Processed salinas
+87 Processed praxedis guerrero
+88 Processed port-gentil
+barentsburg not found. Moving to next city.
+89 Processed tromso
+90 Processed constitucion
+91 Processed chokurdakh
+92 Processed grand gaube
+93 Processed roald
+94 Processed kirakira
+95 Processed north bend
+96 Processed castro
+malwan not found. Moving to next city.
+97 Processed mansa
+lalomanu not found. Moving to next city.
+98 Processed wahiawa
+99 Processed murdochville
+100 Processed picayune
+101 Processed bambanglipuro
+102 Processed tenkodogo
+kazalinsk not found. Moving to next city.
+103 Processed butaritari
+bac lieu not found. Moving to next city.
+104 Processed sao borja
+port-de-paix not found. Moving to next city.
+105 Processed narsaq
+106 Processed san patricio
+107 Processed bowen
+108 Processed dondo
+109 Processed rzeszow
+110 Processed inhambane
+111 Processed viedma
+dzhusaly not found. Moving to next city.
+112 Processed touros
+113 Processed rawlins
+114 Processed mayya
+115 Processed kingaroy
+116 Processed pevek
+117 Processed aklavik
+118 Processed pangnirtung
+119 Processed termiz
+120 Processed yakeshi
+121 Processed mut
+122 Processed meadow lake
+123 Processed westport
+124 Processed shelburne
+125 Processed guerrero negro
+126 Processed hay river
+127 Processed yellowknife
+tsihombe not found. Moving to next city.
+128 Processed bayangol
+129 Processed teya
+130 Processed atar
+131 Processed itaguai
+132 Processed khatanga
+belushya guba not found. Moving to next city.
+133 Processed zabid
+134 Processed abha
+135 Processed praia
+136 Processed taltal
+137 Processed penzance
+138 Processed lasa
+139 Processed the valley
+attawapiskat not found. Moving to next city.
+140 Processed ngunguru
+akyab not found. Moving to next city.
+141 Processed tomatlan
+142 Processed ilulissat
+illoqqortoormiut not found. Moving to next city.
+143 Processed lagoa
+144 Processed flinders
+145 Processed upernavik
+146 Processed muros
+147 Processed havre-saint-pierre
+jabiru not found. Moving to next city.
+148 Processed paddhari
+149 Processed saint-philippe
+150 Processed carnarvon
+151 Processed tazovskiy
+152 Processed vanimo
+153 Processed ilhabela
+154 Processed avera
+tukrah not found. Moving to next city.
+155 Processed tucumcari
+156 Processed waipawa
+157 Processed geraldton
+158 Processed mar del plata
+159 Processed rio gallegos
+rungata not found. Moving to next city.
+160 Processed ostrovnoy
+161 Processed luangwa
+okandja not found. Moving to next city.
+162 Processed provideniya
+163 Processed high level
+164 Processed san cristobal
+165 Processed auki
+166 Processed lianzhou
+167 Processed kruisfontein
+168 Processed kununurra
+169 Processed plavsk
+170 Processed bandipur
+171 Processed comodoro rivadavia
+172 Processed luang prabang
+173 Processed sainte-martine
+174 Processed new norfolk
+tambopata not found. Moving to next city.
+175 Processed te anau
+176 Processed deer lake
+177 Processed norman wells
+178 Processed mandawar
+mutsamudu not found. Moving to next city.
+179 Processed zhangjiakou
+180 Processed tevaitoa
+181 Processed clyde river
+182 Processed tiarei
+bengkulu not found. Moving to next city.
+183 Processed udachnyy
+184 Processed college
+185 Processed san quintin
+186 Processed hami
+187 Processed mount gambier
+188 Processed uige
+189 Processed cacador
+190 Processed noumea
+191 Processed mazatlan
+scottsburgh not found. Moving to next city.
+192 Processed rorvik
+193 Processed suffolk
+194 Processed puerto penasco
+195 Processed lishui
+196 Processed ventsy
+197 Processed severo-kurilsk
+198 Processed half moon bay
+199 Processed soe
+200 Processed tignere
+201 Processed bredasdorp
+202 Processed beaverlodge
+203 Processed fortuna
+204 Processed ponta do sol
+205 Processed tisovec
+206 Processed saskylakh
+207 Processed airai
+208 Processed mehamn
+209 Processed cherskiy
+210 Processed lorengau
+211 Processed port hardy
+212 Processed longyearbyen
+213 Processed si bun ruang
+214 Processed sao filipe
+215 Processed faanui
+216 Processed wanning
+217 Processed bathsheba
+krasnoselkup not found. Moving to next city.
+218 Processed kavieng
+219 Processed paso de los toros
+220 Processed maiduguri
+221 Processed pradopolis
+222 Processed pitimbu
+rajamahendri not found. Moving to next city.
+223 Processed aleksandrov gay
+224 Processed hambantota
+vaitupu not found. Moving to next city.
+225 Processed dakar
+226 Processed wanaka
+227 Processed yeppoon
+228 Processed si sa ket
+229 Processed dunedin
+230 Processed los llanos de aridane
+231 Processed saint-leu
+232 Processed tessalit
+233 Processed shancheng
+nizhneyansk not found. Moving to next city.
+234 Processed yumen
+235 Processed vao
+236 Processed marsabit
+237 Processed cabo san lucas
+labutta not found. Moving to next city.
+238 Processed saldanha
+239 Processed salalah
+240 Processed warrnambool
+241 Processed olinda
+samusu not found. Moving to next city.
+242 Processed sao felix do xingu
+tumannyy not found. Moving to next city.
+243 Processed cascavel
+phan rang not found. Moving to next city.
+244 Processed cabedelo
+245 Processed salym
+246 Processed mayo
+247 Processed purpe
+248 Processed hasaki
+249 Processed libertador general san martin
+samalaeulu not found. Moving to next city.
+250 Processed yar-sale
+251 Processed kudahuvadhoo
+252 Processed sapa
+253 Processed west richland
+254 Processed tilichiki
+sumbawa not found. Moving to next city.
+255 Processed puli
+256 Processed mumford
+257 Processed kishi
+258 Processed adeje
+259 Processed yulara
+260 Processed mizdah
+skalistyy not found. Moving to next city.
+261 Processed okakarara
+262 Processed porto torres
+263 Processed codrington
+264 Processed bay roberts
+265 Processed aksarka
+266 Processed molteno
+267 Processed ugoofaaru
+268 Processed beringovskiy
+269 Processed guangshui
+sentyabrskiy not found. Moving to next city.
+270 Processed tiznit
+271 Processed baykit
+272 Processed luanda
+273 Processed puta
+274 Processed port moresby
+rawannawi not found. Moving to next city.
+275 Processed sibolga
+276 Processed quatre cocos
+277 Processed chulman
+278 Processed mocuba
+279 Processed berlevag
+280 Processed drovyanaya
+281 Processed mitsamiouli
+282 Processed tsivilsk
+283 Processed moranbah
+284 Processed haileybury
+285 Processed salihli
+286 Processed marondera
+287 Processed lebu
+288 Processed warmbad
+289 Processed iqaluit
+290 Processed huanren
+291 Processed santa rosa
+292 Processed peterhead
+293 Processed nanortalik
+294 Processed manzhouli
+acarau not found. Moving to next city.
+295 Processed sioux lookout
+296 Processed havelock
+297 Processed kijang
+298 Processed puerto escondido
+299 Processed seoul
+300 Processed cervo
+301 Processed padang
+302 Processed kanigoro
+303 Processed birjand
+304 Processed asasa
+305 Processed lardos
+maghama not found. Moving to next city.
+306 Processed chirongui
+307 Processed banamba
+308 Processed starosubkhangulovo
+309 Processed crib point
+310 Processed gat
+311 Processed poum
+312 Processed nathdwara
+aflu not found. Moving to next city.
+313 Processed kargil
+314 Processed porto novo
+315 Processed great falls
+316 Processed moorhead
+317 Processed careiro da varzea
+318 Processed port elizabeth
+319 Processed markova
+320 Processed pathein
+321 Processed taraz
+322 Processed virginia beach
+jiddah not found. Moving to next city.
+323 Processed beloha
+324 Processed masallatah
+325 Processed tigzirt
+326 Processed santa cruz
+327 Processed walvis bay
+328 Processed diamantino
+329 Processed pangody
+330 Processed brufut
+dujuma not found. Moving to next city.
+331 Processed vostok
+332 Processed buraydah
+333 Processed mahebourg
+334 Processed yerbogachen
+335 Processed azanka
+336 Processed sucua
+337 Processed seymchan
+338 Processed lazaro cardenas
+339 Processed mmabatho
+340 Processed abu samrah
+341 Processed merauke
+342 Processed santa comba
+343 Processed irbeyskoye
+344 Processed bafoulabe
+345 Processed thyolo
+346 Processed ubinskoye
+347 Processed deputatskiy
+348 Processed amloh
+349 Processed banda aceh
+350 Processed manicore
+351 Processed margate
+saleaula not found. Moving to next city.
+352 Processed carutapera
+353 Processed hanumangarh
+354 Processed sroda wielkopolska
+355 Processed linxia
+356 Processed lavrentiya
+357 Processed swellendam
+grand river south east not found. Moving to next city.
+358 Processed araouane
+louisbourg not found. Moving to next city.
+359 Processed port macquarie
+odemis not found. Moving to next city.
+360 Processed miri
+361 Processed thessalon
+362 Processed coracora
+363 Processed carauari
+364 Processed hualmay
+365 Processed santa maria
+366 Processed nurota
+367 Processed sorso
+368 Processed kilinochchi
+369 Processed padborg
+370 Processed cap malheureux
+371 Processed anadyr
+372 Processed antofagasta
+373 Processed juneau
+374 Processed fairbanks
+375 Processed broome
+376 Processed rabo de peixe
+377 Processed nizhniy kuranakh
+378 Processed kabare
+379 Processed boa vista
+sidi qasim not found. Moving to next city.
+380 Processed sola
+381 Processed lucapa
+382 Processed okhotsk
+383 Processed mildura
+384 Processed aksu
+385 Processed sao joao da barra
+palabuhanratu not found. Moving to next city.
+galiwinku not found. Moving to next city.
+386 Processed sayula
+387 Processed la libertad
+388 Processed bandarbeyla
+389 Processed belmonte
+390 Processed frankenburg
+391 Processed turayf
+392 Processed mount isa
+khonuu not found. Moving to next city.
+393 Processed katherine
+394 Processed alofi
+395 Processed pedernales
+396 Processed takoradi
+397 Processed tampa
+398 Processed hobyo
+399 Processed arlit
+400 Processed shiloh
+401 Processed lahan
+402 Processed biabou
+403 Processed aitape
+404 Processed sokolka
+405 Processed banjar
+406 Processed coquimbo
+407 Processed sunyani
+408 Processed san-pedro
+409 Processed luwuk
+410 Processed mugumu
+411 Processed kalabo
+412 Processed atocha
+413 Processed sari
+414 Processed bilma
+wulanhaote not found. Moving to next city.
+415 Processed bukama
+416 Processed namibe
+amderma not found. Moving to next city.
+417 Processed pokrovsk
+418 Processed aripuana
+419 Processed mandurah
+420 Processed booue
+421 Processed camacha
+422 Processed vagur
+423 Processed pringsewu
+424 Processed say
+425 Processed lubango
+426 Processed cape coast
+427 Processed seybaplaya
+428 Processed kissidougou
+429 Processed sergeyevka
+430 Processed coachella
+tarudant not found. Moving to next city.
+431 Processed belyy yar
+432 Processed miraflores
+433 Processed erenhot
+434 Processed acapulco
+labrea not found. Moving to next city.
+grand centre not found. Moving to next city.
+435 Processed saint-georges
+436 Processed cabatuan
+437 Processed puerto colombia
+438 Processed liverpool
+439 Processed atherton
+440 Processed necochea
+441 Processed ewo
+442 Processed sinnamary
+shkotovo-26 not found. Moving to next city.
+443 Processed marsa matruh
+444 Processed dwarka
+445 Processed niceville
+446 Processed bonavista
+naugarzan not found. Moving to next city.
+447 Processed ornskoldsvik
+448 Processed batamshinskiy
+449 Processed san jose
+wahran not found. Moving to next city.
+450 Processed ploemeur
+451 Processed pierre
+452 Processed nouadhibou
+sorvag not found. Moving to next city.
+453 Processed bull savanna
+454 Processed yatou
+455 Processed santiago del estero
+456 Processed rancharia
+457 Processed thunder bay
+458 Processed zhigansk
+459 Processed christchurch
+460 Processed praia da vitoria
+461 Processed khilok
+462 Processed sambava
+463 Processed namie
+464 Processed nador
+465 Processed west bay
+466 Processed klaksvik
+atka not found. Moving to next city.
+467 Processed anju
+468 Processed dehloran
+469 Processed mozelos
+470 Processed impfondo
+471 Processed paliambela
+472 Processed salta
+473 Processed caravelas
+sinkat not found. Moving to next city.
+474 Processed trincomalee
+475 Processed port-cartier
+476 Processed suhbaatar
+477 Processed keti bandar
+478 Processed muyezerskiy
+479 Processed haimen
+480 Processed dzerzhinsk
+481 Processed ningyang
+482 Processed kundgol
+483 Processed mpongwe
+484 Processed pechenga
+linchuan not found. Moving to next city.
+485 Processed trelew
+meyungs not found. Moving to next city.
+486 Processed choma
+487 Processed palmares do sul
+488 Processed poltavka
+489 Processed pisco
+490 Processed ubud
+491 Processed kimbe
+492 Processed soyo
+qandahar not found. Moving to next city.
+ngukurr not found. Moving to next city.
+tambul not found. Moving to next city.
+493 Processed havoysund
+494 Processed oussouye
+tidore not found. Moving to next city.
+495 Processed nanakuli
+496 Processed rocha
+497 Processed nova londrina
+498 Processed awbari
+499 Processed senno
+500 Processed humberto de campos
+501 Processed meulaboh
+502 Processed marsh harbour
+503 Processed radomsko
+504 Processed starkville
+505 Processed esmeraldas
+506 Processed bahir dar
+507 Processed lodja
+508 Processed nizhniy tsasuchey
+City processing complete.
